@@ -54,7 +54,7 @@
 
 ---
 
-## 콘텐츠 기반 필터링
+## <a href = "https://github.com/KevinTheRainmaker/Recommendation_Algorithms/blob/main/1.%20Content-Based%20Filtering%20Practice%20-%20TMDB%205000%20Movie%20Dataset.ipynb">콘텐츠 기반 필터링</a>
 
 콘텐츠 기반 필터링 방식은, 사용자가 특정한 아이템은 매우 선호하는 경우, 그 아이템과 비슷한 콘텐츠를 가진 다른 아이템을 추천하는 방식이다. 예를 들어 한 사용자가 특정 영화에 높은 평점을 줬다면, 그 영화의 장르, 출연진, 감독, 키워드 등 공통점을 갖는 유사한 다른 영화를 추천해주는 방식이다.
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 최근접 이웃 협업 필터링
+## <a href="https://github.com/KevinTheRainmaker/Recommendation_Algorithms/blob/main/2.%20Item-Based%20Nearest%20Neighbor%20Collaborative%20Filtering%20Practice%20-%20MovieLens%20Dataset.ipynb">최근접 이웃 협업 필터링</a>
 
 신작 영화가 나왔을 때를 생각해보자. 영화를 보게된다면 만원이 넘는 영화 관람료는 물론이고, 영화관까지 이동하는 시간, 관람 시간 등 많은 소모가 발생한다. 그런데 이렇게 관람한 영화가 실망스럽다면 기분이 좋지 않을 것이다.
 
@@ -85,7 +85,7 @@
 
 ---
 
-## 잠재 요인 협업 필터링
+## <a href="https://github.com/KevinTheRainmaker/Recommendation_Algorithms/blob/main/3.%20Latent%20Factor%20Collaborative%20Filtering%20Practice.ipynb">잠재 요인 협업 필터링</a>
 
 잠재 요인 협업 필터링은 User-Item Matrix 속에 숨어 있는 잠재 요인을 추출해 추천 예측을 할 수 있게 하는 기법이다. 대규모 다차원 행렬을 SVD와 같은 차원감소 기법으로 분해하는 과정에서 잠재 요인을 추출하는데, 이러한 기법을 행렬 분해(Matrix Factorization)라고 한다.
 
