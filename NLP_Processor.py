@@ -40,4 +40,3 @@ class TextProcessor:
 # print(TextProcessor.process.__annotations__)
 
 tp = TextProcessor()
-
