@@ -1,7 +1,6 @@
 import mysql.connector
 import pandas as pd
 import yaml
-import sys
 
 def executeQuery(query):
     arr = []
